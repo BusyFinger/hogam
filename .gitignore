@@ -1,0 +1,3 @@
+sftp-config.json
+log-*?\.php
+application/config/database.php
